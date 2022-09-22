@@ -1,0 +1,4 @@
+private
+foremostLayerNumber
+
+	^ Morph navigatorLayer

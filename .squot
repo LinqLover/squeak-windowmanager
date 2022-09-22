@@ -1,0 +1,4 @@
+OrderedDictionary {
+	'packages/BaselineOfWindowManager.package' : #SquotCypressCodeSerializer,
+	'packages/WindowManager.package' : #SquotCypressCodeSerializer
+}

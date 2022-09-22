@@ -1,0 +1,4 @@
+constants
+appName
+
+	^ 'Window Manager'

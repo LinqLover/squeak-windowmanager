@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfWindowManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfWindowManager",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

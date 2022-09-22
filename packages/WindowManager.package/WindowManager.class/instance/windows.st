@@ -1,0 +1,4 @@
+accessing
+windows
+
+	^ windows ifNil: [#()]

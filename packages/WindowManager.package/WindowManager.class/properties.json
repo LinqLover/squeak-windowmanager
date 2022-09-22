@@ -1,0 +1,16 @@
+{
+	"category" : "WindowManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"windows",
+		"selectedWindow",
+		"allSelectedWindows" ],
+	"name" : "WindowManager",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

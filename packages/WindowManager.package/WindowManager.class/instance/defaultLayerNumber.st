@@ -1,0 +1,4 @@
+private
+defaultLayerNumber
+
+	^ Morph defaultLayer
